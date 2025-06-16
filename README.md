@@ -1,7 +1,9 @@
 <!-- Profile README for ZyadAshraff -->
 
-<h1 align="center">Zyad Ashraf Elsayed</h1>
-<h3 align="center">🚀 Frontend Developer | 🎓 Student @ FCAI, Cairo University</h3>
+<h1 align="center"><strong>Zyad Ashraf Elsayed</strong></h1>
+
+<h3 align="center">🚀 <i>Frontend Developer | 🎓 Student @ FCAI, Cairo University</i></h3>
+
 
 ---
 
