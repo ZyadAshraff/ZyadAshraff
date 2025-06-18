@@ -24,17 +24,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
-
-### 🚀 Highlight Projects
-
-Here are some of the cool things I’m working on or have built:
-
-- 🌐 **Recipe Finder Web App** – [Frontend + Django REST API integration]  
-- 🎨 **Portfolio Website** – Personal showcase built with pure HTML/CSS/JS  
-
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
