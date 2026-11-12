@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zyad--ashraff-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zyad-ashraff)
 [![Email](https://img.shields.io/badge/Email-ziadashraf950%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadashraf950@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://zyadashraff.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://zyadashraff.github.io/Portfolio/)
 
 </div>
 
