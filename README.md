@@ -55,7 +55,7 @@ I like taking projects past the notebook stage: clean architecture, honest evalu
 
 ## Featured Projects
 
-### 🛍️ [SmartSales Bot: AI Shopping Assistant](https://github.com/ZyadAshraff/SmartSales-Bot)
+### 🛍️ [SmartSales Bot: AI Shopping Assistant](https://github.com/ZyadAshraff/Intelligent-Sales-ChatBot)
 **NLP · RAG · LLMs**
 
 A conversational shopping assistant that understands customer queries and retrieves the right products from a large catalog.
@@ -82,7 +82,7 @@ Demand forecasting on the **M5 dataset**, served through a web app on **Hugging 
 
 ---
 
-### 🏃 [Human Activity Recognition (UCI HAR)](https://github.com/ZyadAshraff/Human-Activity-Recognition)
+### 🏃 [Human Activity Recognition (UCI HAR)](https://github.com/ZyadAshraff/Human-Activity-Recognition---UCI-HAR-Dataset)
 **Machine Learning · Deep Learning · Transformers**
 
 A multi-phase system classifying **6 activities** from accelerometer and gyroscope signals (561 features, 10K+ samples).
@@ -95,7 +95,7 @@ A multi-phase system classifying **6 activities** from accelerometer and gyrosco
 
 ---
 
-### 🧪 [Disease Prediction with Hyperparameter Optimization](https://github.com/ZyadAshraff/Disease-Prediction)
+### 🧪 [Disease Prediction with Hyperparameter Optimization]([https://github.com/ZyadAshraff/Disease-Prediction](https://github.com/ZyadAshraff/Model-Hyperparameter-Optimization))
 **Neural Networks from Scratch**
 
 A comparative study of from-scratch vs. framework-based training on a binary medical image classification task.
