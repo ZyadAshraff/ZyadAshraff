@@ -13,9 +13,7 @@
 
 ## About Me
 
-**Artificial Intelligence student at Cairo University (Faculty of Computers & AI)** with hands-on experience building practical AI systems: **RAG pipelines, NLP, LLM applications, forecasting models, and computer vision**.
-
-I like taking projects past the notebook stage: clean architecture, honest evaluation, and a working deployment people can actually try.
+**Artificial Intelligence student at Cairo University (Faculty of Computers & AI)** with hands-on experience building practical AI systems: **RAG pipelines, NLP, LLM applications, forecasting models, AI Automation, and computer vision**.
 
 ---
 
